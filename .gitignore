@@ -1,3 +1,9 @@
+### CUSTOM ADDITIONS
+!.gitkeep
+dist/
+.idea
+
+### FROM GITHUB TEMPLATE
 # Logs
 logs
 *.log
@@ -56,4 +62,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
