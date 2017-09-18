@@ -15,7 +15,7 @@ module.exports = {
   devtool: 'source-map',
   module : {
     rules: [
-      // Run all files ending .js or .jsx through the babel loader
+      // Run all files ending .js through the babel loader
       {
         test: /\.js$/,
         exclude: /(node_modules|bower_components)/,
